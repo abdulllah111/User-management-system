@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QNApxbST2xv17kzL96PZpMXhk5/NIIBL7CrL22Z7NtDcX9BwzZnI2snsvL+AQOovsqz7/RrFH/EmSgJJjtEwfQ==",
+  "dgSpecHash": "uB+ckeKv/Qftzc71PI3HxxsXAkLfb1FlRFh7Xi5XUB3tZpPBVCAhjOrYaQOS9WL7c1fDmLxqmwml/+NU9IYW7A==",
   "success": true,
   "projectFilePath": "/run/media/abdul/App/MyProjects/NET/User management system/Users.Identity/Users.Identity.csproj",
   "expectedPackageFiles": [
     "/home/abdul/.nuget/packages/identitymodel/4.4.0/identitymodel.4.4.0.nupkg.sha512",
     "/home/abdul/.nuget/packages/identityserver4/4.1.2/identityserver4.4.1.2.nupkg.sha512",
+    "/home/abdul/.nuget/packages/identityserver4.aspnetidentity/4.1.2/identityserver4.aspnetidentity.4.1.2.nupkg.sha512",
     "/home/abdul/.nuget/packages/identityserver4.storage/4.1.2/identityserver4.storage.4.1.2.nupkg.sha512",
     "/home/abdul/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/3.1.0/microsoft.aspnetcore.authentication.openidconnect.3.1.0.nupkg.sha512",
     "/home/abdul/.nuget/packages/microsoft.aspnetcore.cryptography.internal/7.0.4/microsoft.aspnetcore.cryptography.internal.7.0.4.nupkg.sha512",
